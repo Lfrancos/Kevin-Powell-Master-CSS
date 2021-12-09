@@ -1,16 +1,17 @@
-# Responsive layout 21 day Challenge
+# Responsive Layout --  21 Day Challenge
 > This is a challenge that I decided to take since I needed to understand better responsive development.
-> Live demo [_challenge01_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
-> Live demo [_challenge02_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
-> Live demo [_challenge03_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+
+- Live demo [_challenge01_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+- Live demo [_challenge02_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+- Live demo [_challenge03_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Project Status](#project-status)
-<!-- * [Room for Improvement](#room-for-improvement) -->
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
+<!-- * [Room for Improvement](#room-for-improvement) -->
 <!-- * [License](#license) -->
 
 
